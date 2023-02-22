@@ -1,0 +1,21 @@
+body { 
+    margin: 0 auto;
+    padding: 30px;
+    background-color: rgb(23, 105, 105);
+    color: whitesmoke;
+}
+
+main { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button { 
+    background-color: #212427;
+    color: whitesmoke;
+    border: .5px solid whitesmoke;
+    padding: 12px;
+    border-radius: 2em;
+}
